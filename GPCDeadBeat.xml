@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object>
+	<Name Name="SimulationRoot">
+		<ID>1</ID>
+		<Type>2</Type>
+		<Stationary>false</Stationary>
+		<K>0</K>
+		<VectorA/>
+		<VectorB/>
+		<Parent>0</Parent>
+	</Name>
+	<Name Name="GPCRegulator">
+		<ID>2</ID>
+		<Type>7</Type>
+		<Setpoint>1</Setpoint>
+		<K>1</K>
+		<L>1</L>
+		<H>1</H>
+		<RO>0.0</RO>
+		<Alpha>0.0</Alpha>
+		<Parent>SimulationRoot</Parent>
+		<Generator Name="Square">
+			<Type>5</Type>
+			<Delay>0</Delay>
+			<T>100</T>
+			<A>1</A>
+			<DutyCycle>0.5</DutyCycle>
+		</Generator>
+	</Name>
+	<Name Name="SimObject">
+		<ID>3</ID>
+		<Type>3</Type>
+		<Stationary>false</Stationary>
+		<K>1</K>
+		<VectorA>-0.5 </VectorA>
+		<VectorB>0.5 </VectorB>
+		<Parent>SimulationRoot</Parent>
+	</Name>
+</Object>
