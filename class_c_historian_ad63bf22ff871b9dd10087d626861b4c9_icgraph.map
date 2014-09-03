@@ -1,0 +1,8 @@
+<map id="CHistorian::AddSample" name="CHistorian::AddSample">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#a0eb11ed9d498e379bfff968593de522d" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="235,5,353,32"/>
+<area shape="rect" id="node3" href="$class_c_historian.html#ab6daa1534493dcb4589b542699214176" title="Clears stored samples and copies values from vector. " alt="" coords="219,56,369,83"/>
+<area shape="rect" id="node6" href="$class_c_p_i_d_regulator.html#a8ef247799c8bcb43cbecda5cc7cbd671" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="211,107,377,133"/>
+<area shape="rect" id="node7" href="$class_c_sim_object.html#a04d5a4121669eed7d4af1bbd9e44e1b8" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="219,157,369,184"/>
+<area shape="rect" id="node4" href="$class_c_sim_node.html#a56070ea6cc8ea0a04f9f4c7aeecb8105" title="Set output history. " alt="" coords="425,31,617,57"/>
+<area shape="rect" id="node5" href="$class_c_sim_node.html#a4b82221204758ec9618155dd867170e1" title="Set input history. " alt="" coords="431,81,612,108"/>
+</map>

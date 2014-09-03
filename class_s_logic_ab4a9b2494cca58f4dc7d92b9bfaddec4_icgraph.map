@@ -1,0 +1,4 @@
+<map id="SLogic::IsSimulatonChainReady" name="SLogic::IsSimulatonChainReady">
+<area shape="rect" id="node2" href="$class_s_logic.html#a47d55535c6a95b8bb1c04ee2f2d73a3f" title="Main simulation procedure. Takes time and period as milliseconds. " alt="" coords="231,5,386,32"/>
+<area shape="rect" id="node3" href="$class_s_logic.html#aa03ead7b174bd714266a741effb29e26" title="Runs or pauses simulation. Uses m_nTime and m_nPeriod values. " alt="" coords="224,56,393,83"/>
+</map>

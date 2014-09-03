@@ -1,0 +1,7 @@
+<map id="CRegulator" name="CRegulator">
+<area shape="rect" id="node4" href="$class_c_g_p_c.html" title="CGPC" alt="" coords="5,229,64,256"/>
+<area shape="rect" id="node5" href="$class_c_p_i_d_regulator.html" title="CPIDRegulator" alt="" coords="88,229,195,256"/>
+<area shape="rect" id="node6" href="$class_c_p_regulator.html" title="CPRegulator" alt="" coords="219,229,314,256"/>
+<area shape="rect" id="node2" href="$class_c_sim_node.html" title="CSimNode" alt="" coords="99,80,183,107"/>
+<area shape="rect" id="node3" href="$class_i_s_i_s_o.html" title="ISISO" alt="" coords="113,5,169,32"/>
+</map>

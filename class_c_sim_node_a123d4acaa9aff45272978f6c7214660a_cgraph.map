@@ -1,0 +1,5 @@
+<map id="CSimNode::SetName" name="CSimNode::SetName">
+<area shape="rect" id="node2" href="$class_s_unique_name_controller.html#a9b59f7b002d753caf8faed83e2054c67" title="Returns the only one instance of the singleton. " alt="" coords="200,5,360,47"/>
+<area shape="rect" id="node3" href="$class_s_unique_name_controller.html#a64ef85c031d3c7c51224a8611c275621" title="Unregisters name. Whether it exists in base or not. " alt="" coords="200,71,360,112"/>
+<area shape="rect" id="node4" href="$class_s_unique_name_controller.html#a70ca7ec05557cc7aa2886df3f0285621" title="Handles checking the uniqueness of the name and generating postfix if needed. Using referencje..." alt="" coords="200,136,360,177"/>
+</map>

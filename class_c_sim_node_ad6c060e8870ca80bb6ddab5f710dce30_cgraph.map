@@ -1,0 +1,4 @@
+<map id="CSimNode::GetOutputHistory" name="CSimNode::GetOutputHistory">
+<area shape="rect" id="node2" href="$class_c_historian.html#a53b9bc4aed37577c5a3b7fb15881148e" title="Return N samples stored. If The number of stored samples is lower than desired the returned vector wi..." alt="" coords="247,5,436,32"/>
+<area shape="rect" id="node3" href="$class_c_historian.html#a9c01e04d0b3592f0fbf1ecbd0014cd05" title="Returns number indicating maximum samples stored. " alt="" coords="484,5,671,32"/>
+</map>

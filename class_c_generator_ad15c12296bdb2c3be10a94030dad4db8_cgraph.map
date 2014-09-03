@@ -1,0 +1,6 @@
+<map id="CGenerator::CGenerator" name="CGenerator::CGenerator">
+<area shape="rect" id="node2" href="$class_c_generator.html#a8b2fd335459c1fa849c3a8a1153ff72c" title="Sets name. " alt="" coords="216,78,367,105"/>
+<area shape="rect" id="node3" href="$class_s_unique_name_controller.html#a9b59f7b002d753caf8faed83e2054c67" title="Returns the only one instance of the singleton. " alt="" coords="415,5,575,47"/>
+<area shape="rect" id="node4" href="$class_s_unique_name_controller.html#a64ef85c031d3c7c51224a8611c275621" title="Unregisters name. Whether it exists in base or not. " alt="" coords="415,71,575,112"/>
+<area shape="rect" id="node5" href="$class_s_unique_name_controller.html#a70ca7ec05557cc7aa2886df3f0285621" title="Handles checking the uniqueness of the name and generating postfix if needed. Using referencje..." alt="" coords="415,136,575,177"/>
+</map>

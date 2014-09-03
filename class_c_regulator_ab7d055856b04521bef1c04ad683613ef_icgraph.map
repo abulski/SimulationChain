@@ -1,0 +1,5 @@
+<map id="CRegulator::ResetMemory" name="CRegulator::ResetMemory">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#ab55a118c062aa7b18fbb1d909f66395a" title="To call on new simulation. " alt="" coords="269,5,383,32"/>
+<area shape="rect" id="node4" href="$class_c_p_i_d_regulator.html#a870d3324ba6a09d88fc8d255211290ef" title="Resets objects memory (reset generators if present). " alt="" coords="228,56,424,83"/>
+<area shape="rect" id="node3" href="$class_c_g_p_c.html#a54024d0a0b7274a2b6dc440af757fa2c" title="Resets objects memory (reset generators if present). " alt="" coords="472,5,620,32"/>
+</map>

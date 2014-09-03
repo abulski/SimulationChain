@@ -1,0 +1,4 @@
+<map id="CSimNode::SetOutputHistory" name="CSimNode::SetOutputHistory">
+<area shape="rect" id="node2" href="$class_c_historian.html#ab6daa1534493dcb4589b542699214176" title="Clears stored samples and copies values from vector. " alt="" coords="245,5,396,32"/>
+<area shape="rect" id="node3" href="$class_c_historian.html#ad63bf22ff871b9dd10087d626861b4c9" title="Insert a sample to the history record. " alt="" coords="444,5,601,32"/>
+</map>

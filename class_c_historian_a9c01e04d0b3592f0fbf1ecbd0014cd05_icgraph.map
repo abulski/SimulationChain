@@ -1,0 +1,9 @@
+<map id="CHistorian::GetMaxSamples" name="CHistorian::GetMaxSamples">
+<area shape="rect" id="node2" href="$class_c_historian.html#a53b9bc4aed37577c5a3b7fb15881148e" title="Return N samples stored. If The number of stored samples is lower than desired the returned vector wi..." alt="" coords="240,56,429,83"/>
+<area shape="rect" id="node6" href="$class_c_sim_object.html#abc0a181322df3b31abb786b393b755a4" title="Function to set vector a of the model. " alt="" coords="251,107,418,133"/>
+<area shape="rect" id="node8" href="$class_c_sim_object.html#a1358d6236a190238a2016509e25cf9b7" title="Function to set vector b of the model. " alt="" coords="251,157,418,184"/>
+<area shape="rect" id="node3" href="$class_c_g_p_c.html#a0eb11ed9d498e379bfff968593de522d" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="515,5,633,32"/>
+<area shape="rect" id="node4" href="$class_c_sim_node.html#ad6c060e8870ca80bb6ddab5f710dce30" title="Outputs all output samples recorded by far. " alt="" coords="477,56,671,83"/>
+<area shape="rect" id="node5" href="$class_c_sim_object.html#a04d5a4121669eed7d4af1bbd9e44e1b8" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="499,107,649,133"/>
+<area shape="rect" id="node7" href="$class_c_sim_object.html#a3a09bcb85ea8fd8ba096b8a2316461c9" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="495,157,653,184"/>
+</map>

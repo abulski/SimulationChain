@@ -1,0 +1,4 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node2" href="$class_s_logic.html#a1beb45dc142d382419561f5c35e11d85" title="Returns the only one instance of the singleton. " alt="" coords="243,5,383,32"/>
+<area shape="rect" id="node3" href="$class_s_logic.html#a62e044cbe7b2437be6ee0d7de4691434" title="Set the GUI handle. This method has to be called as soon as possible after creation of the SLogic ins..." alt="" coords="232,56,393,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CPIDRegulator::LoadState" name="CPIDRegulator::LoadState">
+<area shape="rect" id="node2" href="$class_c_p_i_d_regulator.html#aa14990a00c231feca4c13fcacfad2534" title="CPIDRegulator::SetGain" alt="" coords="244,5,407,32"/>
+<area shape="rect" id="node3" href="$class_c_p_i_d_regulator.html#a5a736b2452e362f30302fde33a5e8aa1" title="CPIDRegulator::SetTp" alt="" coords="251,56,400,83"/>
+<area shape="rect" id="node4" href="$class_c_p_i_d_regulator.html#a67ab910360551bec1ae99256190f1251" title="CPIDRegulator::SetTi" alt="" coords="253,107,398,133"/>
+<area shape="rect" id="node5" href="$class_c_p_i_d_regulator.html#ab896fee8ec3311961b61d38a79acb907" title="CPIDRegulator::SetTd" alt="" coords="251,157,400,184"/>
+<area shape="rect" id="node6" href="$class_c_p_i_d_regulator.html#a66d82eb360a6f2551d5d5d76162b7365" title="CPIDRegulator::SetN" alt="" coords="253,208,397,235"/>
+<area shape="rect" id="node7" href="$class_c_regulator.html#ac90c89213326f372d6e606fd65d06e9e" title="Sets setopoint value. " alt="" coords="228,259,423,285"/>
+<area shape="rect" id="node8" href="$class_c_regulator.html#a532cdb6fdec8e7d8a0de61bfc49c53d3" title="Deserializes generators data. " alt="" coords="236,310,415,351"/>
+<area shape="rect" id="node9" href="$class_c_regulator.html#aa261b87835eac1884963345973ac9560" title="Searches for a generator holding given name. " alt="" coords="471,193,647,220"/>
+<area shape="rect" id="node10" href="$class_s_generator_factory.html#a7134535a2bb09d861cb2dc547f1f7a4a" title="Allows to access the only instance of the factory. " alt="" coords="489,245,629,286"/>
+<area shape="rect" id="node11" href="$class_s_generator_factory.html#a68d0cc82c1b70b453d0241ac1fc25190" title="Creates a generator of the given type. " alt="" coords="489,310,629,351"/>
+<area shape="rect" id="node12" href="$class_i_generator.html#ad61f3f565c73d951eeb8618cc73361cd" title="Sets generator parameters. " alt="" coords="484,376,633,403"/>
+<area shape="rect" id="node13" href="$class_c_regulator.html#a451626998946f8d6686c7d5260217d42" title="Adds generator to the list. " alt="" coords="471,427,646,453"/>
+</map>

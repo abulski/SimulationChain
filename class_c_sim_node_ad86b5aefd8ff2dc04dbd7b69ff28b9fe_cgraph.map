@@ -1,0 +1,5 @@
+<map id="CSimNode::SetID" name="CSimNode::SetID">
+<area shape="rect" id="node2" href="$class_s_unique_i_d_generator.html#ab6d5a9a9d857c5310d9d41a9381244c2" title="Returns the only one instance of the singleton. " alt="" coords="177,5,317,47"/>
+<area shape="rect" id="node3" href="$class_s_unique_i_d_generator.html#aa176adcf87a2133a38f656b46cf586ea" title="Retrives next unique ID Returns 0 if no unique IDs left. This usually means that there are large rang..." alt="" coords="177,71,317,112"/>
+<area shape="rect" id="node4" href="$class_s_unique_i_d_generator.html#ab16d84fb68dabbb7bdf3a630e8ffc3d7" title="Reserves an ID. Returns false if reservation failed (usually because chosen ID is reserved)..." alt="" coords="177,136,317,177"/>
+</map>

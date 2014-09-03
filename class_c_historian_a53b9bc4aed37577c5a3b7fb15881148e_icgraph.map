@@ -1,0 +1,5 @@
+<map id="CHistorian::RetriveNSamples" name="CHistorian::RetriveNSamples">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#a0eb11ed9d498e379bfff968593de522d" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="280,5,399,32"/>
+<area shape="rect" id="node3" href="$class_c_sim_node.html#ad6c060e8870ca80bb6ddab5f710dce30" title="Outputs all output samples recorded by far. " alt="" coords="243,56,436,83"/>
+<area shape="rect" id="node4" href="$class_c_sim_object.html#a04d5a4121669eed7d4af1bbd9e44e1b8" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="264,107,415,133"/>
+</map>

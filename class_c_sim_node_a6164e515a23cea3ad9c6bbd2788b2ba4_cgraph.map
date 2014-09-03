@@ -1,0 +1,11 @@
+<map id="CSimNode::CSimNode" name="CSimNode::CSimNode">
+<area shape="rect" id="node2" href="$class_c_sim_node.html#a123d4acaa9aff45272978f6c7214660a" title="Registers a name with the object. User must ensure that the name is unique. " alt="" coords="208,111,355,138"/>
+<area shape="rect" id="node6" href="$class_c_sim_node.html#a602dc396813357d856d5185b94a8c6a6" title="Set object functional type. " alt="" coords="211,186,351,213"/>
+<area shape="rect" id="node7" href="$class_c_sim_node.html#ad86b5aefd8ff2dc04dbd7b69ff28b9fe" title="Enables user to set an ID of the object. User must ensure that the name is unique. " alt="" coords="219,251,343,278"/>
+<area shape="rect" id="node3" href="$class_s_unique_name_controller.html#a9b59f7b002d753caf8faed83e2054c67" title="Returns the only one instance of the singleton. " alt="" coords="403,5,563,47"/>
+<area shape="rect" id="node4" href="$class_s_unique_name_controller.html#a64ef85c031d3c7c51224a8611c275621" title="Unregisters name. Whether it exists in base or not. " alt="" coords="403,71,563,112"/>
+<area shape="rect" id="node5" href="$class_s_unique_name_controller.html#a70ca7ec05557cc7aa2886df3f0285621" title="Handles checking the uniqueness of the name and generating postfix if needed. Using referencje..." alt="" coords="403,136,563,177"/>
+<area shape="rect" id="node8" href="$class_s_unique_i_d_generator.html#ab6d5a9a9d857c5310d9d41a9381244c2" title="Returns the only one instance of the singleton. " alt="" coords="413,201,553,243"/>
+<area shape="rect" id="node9" href="$class_s_unique_i_d_generator.html#aa176adcf87a2133a38f656b46cf586ea" title="Retrives next unique ID Returns 0 if no unique IDs left. This usually means that there are large rang..." alt="" coords="413,267,553,308"/>
+<area shape="rect" id="node10" href="$class_s_unique_i_d_generator.html#ab16d84fb68dabbb7bdf3a630e8ffc3d7" title="Reserves an ID. Returns false if reservation failed (usually because chosen ID is reserved)..." alt="" coords="413,332,553,373"/>
+</map>

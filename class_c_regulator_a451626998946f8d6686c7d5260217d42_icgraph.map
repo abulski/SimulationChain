@@ -1,0 +1,7 @@
+<map id="CRegulator::AddGenerator" name="CRegulator::AddGenerator">
+<area shape="rect" id="node2" href="$class_c_regulator.html#a532cdb6fdec8e7d8a0de61bfc49c53d3" title="Deserializes generators data. " alt="" coords="228,49,407,90"/>
+<area shape="rect" id="node6" href="$class_s_logic.html#a9fe221ab8661f8bfede204b7d621b92d" title="Main program flow is defined in this function. " alt="" coords="271,115,364,141"/>
+<area shape="rect" id="node3" href="$class_c_g_p_c.html#a09b1f286dd1b571447875e5adcb85cb0" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="479,5,605,32"/>
+<area shape="rect" id="node4" href="$class_c_p_i_d_regulator.html#af44f92276a0b01b27ac9ba4e332f8f10" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="455,56,629,83"/>
+<area shape="rect" id="node5" href="$class_c_p_regulator.html#ae69eb4aa39d96e460fa2ac425559a01b" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="461,107,623,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SObjectFactory::CreateObject" name="SObjectFactory::CreateObject">
+<area shape="rect" id="node2" href="$class_s_logic.html#a2c37261a3a4c99db86114ae254da5587" title="Tries to load the simulation chain from the .xml file. " alt="" coords="251,5,405,32"/>
+<area shape="rect" id="node3" href="$class_s_logic.html#a9fe221ab8661f8bfede204b7d621b92d" title="Main program flow is defined in this function. " alt="" coords="453,5,547,32"/>
+</map>

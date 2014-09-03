@@ -1,0 +1,6 @@
+<map id="CARXIdentification::ChangePolynomial_o_degree" name="CARXIdentification::ChangePolynomial_o_degree">
+<area shape="rect" id="node2" href="$class_c_a_r_x_identification.html#a320e188d95bdd470d23eb26059e96a57" title="This is the default class destructor. " alt="" coords="211,5,339,47"/>
+<area shape="rect" id="node3" href="$class_c_a_r_x_identification.html#ab5bc35e092ef165e82b425c35151fdd4" title="This method adjusts the length of the fi vector. &#160;. " alt="" coords="211,71,339,112"/>
+<area shape="rect" id="node4" href="$class_c_a_r_x_identification.html#a2ffb3c7f6b4f2c6a8e32cd66d181a43b" title="This method adjusts the length of the P matrix to the current values of the degrees of the predicting..." alt="" coords="211,136,339,177"/>
+<area shape="rect" id="node5" href="$class_c_a_r_x_identification.html#a2ba52a481741af193262b73172c00fd0" title="This method adjusts the length of the theta vector to the current values of the degrees of the predic..." alt="" coords="205,201,345,243"/>
+</map>

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['generatenext',['GenerateNext',['../class_i_generator.html#a30a1992e0decfb8ccc7426f1dfae92ca',1,'IGenerator::GenerateNext()'],['../class_c_noise_gen.html#a5e114863738bd97d6b7555187c1ec6b0',1,'CNoiseGen::GenerateNext()'],['../class_c_pulse_gen.html#afbd74a4e301d81d2f80693b9be42f796',1,'CPulseGen::GenerateNext()'],['../class_c_sine_gen.html#a26824401b5e3f1a9a334dc1346dd7602',1,'CSineGen::GenerateNext()'],['../class_c_square_gen.html#a235649b46a28cba97ed9720061d7dfe3',1,'CSquareGen::GenerateNext()'],['../class_c_step_gen.html#aa278474bcf096a7a7e07790904d0981b',1,'CStepGen::GenerateNext()'],['../class_c_triangle_gen.html#abf9ecb2a66b208d4cda38165a249b316',1,'CTriangleGen::GenerateNext()']]],
+  ['getchildren',['GetChildren',['../class_i_s_i_s_o.html#a9e9a9add165cf5cedb44208411682a7e',1,'ISISO::GetChildren()'],['../class_c_sim_node.html#ae940ab932dd08a3c364a06b8c3931504',1,'CSimNode::GetChildren()']]],
+  ['getgeneratorlist',['GetGeneratorList',['../class_c_regulator.html#aba3089c34106e09c3851ad0225d67165',1,'CRegulator']]],
+  ['getid',['GetID',['../class_i_s_i_s_o.html#a99d3084673e14c4be25fa84337e1b4d1',1,'ISISO::GetID()'],['../class_c_sim_node.html#a32230ee01d195e3517f7635098797df9',1,'CSimNode::GetID()']]],
+  ['getinstance',['GetInstance',['../class_s_generator_factory.html#a7134535a2bb09d861cb2dc547f1f7a4a',1,'SGeneratorFactory::GetInstance()'],['../class_s_logic.html#a1beb45dc142d382419561f5c35e11d85',1,'SLogic::GetInstance()'],['../class_s_object_factory.html#ae22f773bc12d54a221b554e60ff66c60',1,'SObjectFactory::GetInstance()'],['../class_s_unique_i_d_generator.html#ab6d5a9a9d857c5310d9d41a9381244c2',1,'SUniqueIDGenerator::GetInstance()'],['../class_s_unique_name_controller.html#a9b59f7b002d753caf8faed83e2054c67',1,'SUniqueNameController::GetInstance()']]],
+  ['getk',['GetK',['../class_c_sim_object.html#a3228db8427616c6464d5752e6a41c4b7',1,'CSimObject']]],
+  ['getlastidentifieddenominator',['GetLastIdentifiedDenominator',['../class_s_logic.html#a531f6244bc718f919edd1856075abca0',1,'SLogic']]],
+  ['getlastidentifiednominator',['GetLastIdentifiedNominator',['../class_s_logic.html#a973fc5070d1fd16c1259dc7c8ee9eeb9',1,'SLogic']]],
+  ['getmaxsamples',['GetMaxSamples',['../class_c_historian.html#a9c01e04d0b3592f0fbf1ecbd0014cd05',1,'CHistorian']]],
+  ['getname',['GetName',['../class_c_generator.html#a9d956f44064dd2886b1b6fc85e7f82fa',1,'CGenerator::GetName()'],['../class_i_generator.html#adeb4b164273329e4d2096619a248f65b',1,'IGenerator::GetName()'],['../class_i_s_i_s_o.html#a0610327672d04024014e267089509615',1,'ISISO::GetName() const =0'],['../class_i_s_i_s_o.html#ad47ec7e09c491287007e5e29ba85f014',1,'ISISO::GetName(boost::property_tree::ptree &amp;) const =0'],['../class_c_regulator.html#a5c1b81b26a3c83480804059933f6a544',1,'CRegulator::GetName()'],['../class_c_sim_node.html#a57108e479d585ecc941175097a565f97',1,'CSimNode::GetName() const override'],['../class_c_sim_node.html#adfbdba87aff5fd28a76667da1dbcf2ad',1,'CSimNode::GetName(boost::property_tree::ptree &amp;nameTree) const override']]],
+  ['getnextgeneratorvalue',['GetNextGeneratorValue',['../class_c_regulator.html#a50fde917d06470c8bf5e2d60c615b2bc',1,'CRegulator']]],
+  ['getnextid',['GetNextID',['../class_s_unique_i_d_generator.html#aa176adcf87a2133a38f656b46cf586ea',1,'SUniqueIDGenerator']]],
+  ['getnumofsamplesstored',['GetNumOfSamplesStored',['../class_c_historian.html#a93c16687993b6964d83116b3a2513052',1,'CHistorian']]],
+  ['getoutputhistory',['GetOutputHistory',['../class_i_s_i_s_o.html#aa46d4166b6b019bbd1cbccc0b19910cc',1,'ISISO::GetOutputHistory()'],['../class_c_sim_node.html#ad6c060e8870ca80bb6ddab5f710dce30',1,'CSimNode::GetOutputHistory()']]],
+  ['getparent',['GetParent',['../class_i_s_i_s_o.html#a5bf3676b5a6722c0404af56546921fea',1,'ISISO::GetParent()'],['../class_c_sim_node.html#acedb09f79fb2af5f98e5fbd1d5b01e24',1,'CSimNode::GetParent()']]],
+  ['getperiod',['GetPeriod',['../class_s_logic.html#afe51bbbebad419f4ddc77d792fdac6c6',1,'SLogic']]],
+  ['getsetpointvalue',['GetSetpointValue',['../class_c_regulator.html#a34e1d366bbb9a60f68ec04f6276fb74d',1,'CRegulator']]],
+  ['gettype',['GetType',['../class_c_generator.html#afad94ef37afbcba0e97db34395ce0d2f',1,'CGenerator::GetType()'],['../class_i_generator.html#a774e4da9697efdef2d9bd5284f44b369',1,'IGenerator::GetType()'],['../class_i_s_i_s_o.html#a7d10fdda05ecbf3688754c879c440147',1,'ISISO::GetType()'],['../class_c_sim_node.html#aa1bbc15065d7725b60f4c65edcb2d22f',1,'CSimNode::GetType()']]],
+  ['getvectora',['GetVectorA',['../class_c_sim_object.html#a8b1cf44ac169419077ba53401c2b2f2e',1,'CSimObject']]],
+  ['getvectorb',['GetVectorB',['../class_c_sim_object.html#af77b0bd339ff1c3f3043d30e5924416c',1,'CSimObject']]]
+];

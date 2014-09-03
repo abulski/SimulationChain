@@ -1,0 +1,3 @@
+<map id="CPRegulator::Simulate" name="CPRegulator::Simulate">
+<area shape="rect" id="node2" href="$class_c_regulator.html#a50fde917d06470c8bf5e2d60c615b2bc" title="Will predict next generated value from all generators. Use with LoadGeneratorHistory() and SaveGenera..." alt="" coords="208,5,407,47"/>
+</map>

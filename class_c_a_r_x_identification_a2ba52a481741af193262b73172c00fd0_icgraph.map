@@ -1,0 +1,5 @@
+<map id="CARXIdentification::AdjustThetaHistory" name="CARXIdentification::AdjustThetaHistory">
+<area shape="rect" id="node2" href="$class_c_a_r_x_identification.html#ab1eb58a97c20fa0ccbdba4cda3f5f859" title="This method returns from the theta vector the values of the denominator of the predicting transfer fu..." alt="" coords="197,5,345,61"/>
+<area shape="rect" id="node3" href="$class_c_a_r_x_identification.html#ab70946d8558c2cb8a8e79f35941d0987" title="This method allows to change the degree of the nominator from the predicting transfer function..." alt="" coords="195,85,347,141"/>
+<area shape="rect" id="node4" href="$class_c_a_r_x_identification.html#ade26a5552d0606d0388f5a1adf5ae7a2" title="This method allows to initiate the length of history of theta parameters. " alt="" coords="193,166,348,207"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SLogic::RunSimulation" name="SLogic::RunSimulation">
+<area shape="rect" id="node2" href="$class_s_logic.html#ab4a9b2494cca58f4dc7d92b9bfaddec4" title="Checks if simulation can be executed properly. " alt="" coords="208,5,379,47"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a14f5acf9d968d2bd4dd19e15fa0e8c03" title="Reset x axises to start plotting from x1=0 and x2=0. " alt="" coords="208,71,379,98"/>
+<area shape="rect" id="node4" href="$class_s_logic.html#a06d1141eb47193f8ae455b78d62b785d" title="Resets all memory values from the simulation chain. Does not delete objects parameters or generators..." alt="" coords="211,122,376,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CSimObject::SetVectorA" name="CSimObject::SetVectorA">
+<area shape="rect" id="node2" href="$class_c_historian.html#a9c01e04d0b3592f0fbf1ecbd0014cd05" title="Returns number indicating maximum samples stored. " alt="" coords="220,5,407,32"/>
+<area shape="rect" id="node3" href="$class_c_historian.html#aaa6cd4c81665b9f071b6ba2b6a6c8b4b" title="Sets maximum samples stored. " alt="" coords="220,56,407,83"/>
+</map>

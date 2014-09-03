@@ -1,0 +1,4 @@
+<map id="SLogic::SelectedObjectEdited" name="SLogic::SelectedObjectEdited">
+<area shape="rect" id="node2" href="$class_s_logic.html#ade386471d2b73f50334303e53351c68b" title="Called from SelectedObjectEdited(). Helper method to update simulation tree. " alt="" coords="249,5,419,32"/>
+<area shape="rect" id="node3" href="$class_i_s_i_s_o.html#a291902b8379ccf4f67a7a2634d9ced1b" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="273,56,395,83"/>
+</map>

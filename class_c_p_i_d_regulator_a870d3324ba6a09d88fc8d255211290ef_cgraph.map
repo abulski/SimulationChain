@@ -1,0 +1,6 @@
+<map id="CPIDRegulator::ResetMemory" name="CPIDRegulator::ResetMemory">
+<area shape="rect" id="node2" href="$class_c_regulator.html#ab7d055856b04521bef1c04ad683613ef" title="Resets objects memory (reset generators if present). " alt="" coords="249,31,424,57"/>
+<area shape="rect" id="node3" href="$class_c_sim_node.html#af0f2982fa226ff596824cc881ef74e32" title="Resets objects memory (reset generators if present). " alt="" coords="481,5,655,32"/>
+<area shape="rect" id="node5" href="$class_c_regulator.html#a2ad7e0dd1659a4142706d674cca5ec33" title="Resets generator to the entry state. " alt="" coords="472,56,664,83"/>
+<area shape="rect" id="node4" href="$class_c_historian.html#a18aa73dd7786dbe9f10c9d46aea620e8" title="Clears stored samples. " alt="" coords="712,5,832,32"/>
+</map>

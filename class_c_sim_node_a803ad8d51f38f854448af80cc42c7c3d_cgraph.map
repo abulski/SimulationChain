@@ -1,0 +1,4 @@
+<map id="CSimNode::SetParent" name="CSimNode::SetParent">
+<area shape="rect" id="node2" href="$class_i_s_i_s_o.html#a84865c516d65174a6af7b863d63412c1" title="Allows adding children to the object. " alt="" coords="215,5,331,32"/>
+<area shape="rect" id="node3" href="$class_i_s_i_s_o.html#a28df515e5f2b2efc2310af267af89b95" title="Removes a child of the object. " alt="" coords="204,56,343,83"/>
+</map>

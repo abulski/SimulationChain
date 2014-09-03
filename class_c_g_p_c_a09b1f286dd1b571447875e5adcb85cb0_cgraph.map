@@ -1,0 +1,10 @@
+<map id="CGPC::LoadState" name="CGPC::LoadState">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#a3421828e8ede9090f9c8a1cf741a9bfa" title="Sets basic GPC parameters. " alt="" coords="211,20,343,47"/>
+<area shape="rect" id="node3" href="$class_c_regulator.html#ac90c89213326f372d6e606fd65d06e9e" title="Sets setopoint value. " alt="" coords="180,71,375,97"/>
+<area shape="rect" id="node4" href="$class_c_regulator.html#a532cdb6fdec8e7d8a0de61bfc49c53d3" title="Deserializes generators data. " alt="" coords="188,122,367,163"/>
+<area shape="rect" id="node5" href="$class_c_regulator.html#aa261b87835eac1884963345973ac9560" title="Searches for a generator holding given name. " alt="" coords="423,5,599,32"/>
+<area shape="rect" id="node6" href="$class_s_generator_factory.html#a7134535a2bb09d861cb2dc547f1f7a4a" title="Allows to access the only instance of the factory. " alt="" coords="441,57,581,98"/>
+<area shape="rect" id="node7" href="$class_s_generator_factory.html#a68d0cc82c1b70b453d0241ac1fc25190" title="Creates a generator of the given type. " alt="" coords="441,122,581,163"/>
+<area shape="rect" id="node8" href="$class_i_generator.html#ad61f3f565c73d951eeb8618cc73361cd" title="Sets generator parameters. " alt="" coords="436,188,585,215"/>
+<area shape="rect" id="node9" href="$class_c_regulator.html#a451626998946f8d6686c7d5260217d42" title="Adds generator to the list. " alt="" coords="423,239,598,265"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CRegulator::GetNextGeneratorValue" name="CRegulator::GetNextGeneratorValue">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#a0eb11ed9d498e379bfff968593de522d" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="276,5,395,32"/>
+<area shape="rect" id="node3" href="$class_c_p_i_d_regulator.html#a8ef247799c8bcb43cbecda5cc7cbd671" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="252,56,419,83"/>
+<area shape="rect" id="node4" href="$class_c_p_regulator.html#a8447219ca8df5e47138c73b8f8f3393b" title="Outputs one step of the simualtion given one sample of the input. " alt="" coords="258,107,413,133"/>
+</map>

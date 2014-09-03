@@ -1,0 +1,7 @@
+<map id="CRegulator::LoadGeneratorState" name="CRegulator::LoadGeneratorState">
+<area shape="rect" id="node2" href="$class_c_regulator.html#aa261b87835eac1884963345973ac9560" title="Searches for a generator holding given name. " alt="" coords="232,5,408,32"/>
+<area shape="rect" id="node3" href="$class_s_generator_factory.html#a7134535a2bb09d861cb2dc547f1f7a4a" title="Allows to access the only instance of the factory. " alt="" coords="250,57,390,98"/>
+<area shape="rect" id="node4" href="$class_s_generator_factory.html#a68d0cc82c1b70b453d0241ac1fc25190" title="Creates a generator of the given type. " alt="" coords="250,122,390,163"/>
+<area shape="rect" id="node5" href="$class_i_generator.html#ad61f3f565c73d951eeb8618cc73361cd" title="Sets generator parameters. " alt="" coords="245,188,395,215"/>
+<area shape="rect" id="node6" href="$class_c_regulator.html#a451626998946f8d6686c7d5260217d42" title="Adds generator to the list. " alt="" coords="233,239,407,265"/>
+</map>

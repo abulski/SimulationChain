@@ -1,0 +1,4 @@
+<map id="SUniqueIDGenerator::GetNextID" name="SUniqueIDGenerator::GetNextID">
+<area shape="rect" id="node2" href="$class_c_sim_node.html#ad86b5aefd8ff2dc04dbd7b69ff28b9fe" title="Enables user to set an ID of the object. User must ensure that the name is unique. " alt="" coords="193,13,317,39"/>
+<area shape="rect" id="node3" href="$class_c_sim_node.html#a6164e515a23cea3ad9c6bbd2788b2ba4" title="Constructs the base abstract class for simulation object handling. " alt="" coords="365,13,520,39"/>
+</map>

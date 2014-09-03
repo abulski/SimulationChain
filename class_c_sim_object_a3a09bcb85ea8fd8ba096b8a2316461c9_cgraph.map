@@ -1,0 +1,8 @@
+<map id="CSimObject::LoadState" name="CSimObject::LoadState">
+<area shape="rect" id="node2" href="$class_c_sim_object.html#a85acf4b563e2fd60ccd04b07a4ca196f" title="Set if object is stationary. " alt="" coords="212,5,391,32"/>
+<area shape="rect" id="node3" href="$class_c_sim_object.html#a5a9b9acb1c9d86b6c8eef5a4bcdaece4" title="Set K value. " alt="" coords="237,56,366,83"/>
+<area shape="rect" id="node4" href="$class_c_sim_object.html#abc0a181322df3b31abb786b393b755a4" title="Function to set vector a of the model. " alt="" coords="218,107,385,133"/>
+<area shape="rect" id="node7" href="$class_c_sim_object.html#a1358d6236a190238a2016509e25cf9b7" title="Function to set vector b of the model. " alt="" coords="218,157,385,184"/>
+<area shape="rect" id="node5" href="$class_c_historian.html#a9c01e04d0b3592f0fbf1ecbd0014cd05" title="Returns number indicating maximum samples stored. " alt="" coords="439,107,625,133"/>
+<area shape="rect" id="node6" href="$class_c_historian.html#aaa6cd4c81665b9f071b6ba2b6a6c8b4b" title="Sets maximum samples stored. " alt="" coords="439,157,625,184"/>
+</map>

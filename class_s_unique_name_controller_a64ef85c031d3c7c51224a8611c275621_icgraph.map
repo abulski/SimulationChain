@@ -1,0 +1,6 @@
+<map id="SUniqueNameController::UnRegisterName" name="SUniqueNameController::UnRegisterName">
+<area shape="rect" id="node2" href="$class_c_generator.html#a8b2fd335459c1fa849c3a8a1153ff72c" title="Sets name. " alt="" coords="213,5,364,32"/>
+<area shape="rect" id="node4" href="$class_c_sim_node.html#a123d4acaa9aff45272978f6c7214660a" title="Registers a name with the object. User must ensure that the name is unique. " alt="" coords="215,56,362,83"/>
+<area shape="rect" id="node3" href="$class_c_generator.html#ad15c12296bdb2c3be10a94030dad4db8" title="Abstract class constructor to initialize common components. " alt="" coords="412,5,575,32"/>
+<area shape="rect" id="node5" href="$class_c_sim_node.html#a6164e515a23cea3ad9c6bbd2788b2ba4" title="Constructs the base abstract class for simulation object handling. " alt="" coords="416,56,571,83"/>
+</map>

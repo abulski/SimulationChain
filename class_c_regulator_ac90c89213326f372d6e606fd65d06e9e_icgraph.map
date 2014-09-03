@@ -1,0 +1,5 @@
+<map id="CRegulator::SetSetpointValue" name="CRegulator::SetSetpointValue">
+<area shape="rect" id="node2" href="$class_c_g_p_c.html#a09b1f286dd1b571447875e5adcb85cb0" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="272,5,399,32"/>
+<area shape="rect" id="node3" href="$class_c_p_i_d_regulator.html#af44f92276a0b01b27ac9ba4e332f8f10" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="248,56,423,83"/>
+<area shape="rect" id="node4" href="$class_c_p_regulator.html#ae69eb4aa39d96e460fa2ac425559a01b" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="254,107,417,133"/>
+</map>

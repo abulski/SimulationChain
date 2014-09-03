@@ -1,0 +1,9 @@
+<map id="IGenerator" name="IGenerator">
+<area shape="rect" id="node2" href="$class_c_generator.html" title="CGenerator" alt="" coords="283,80,371,107"/>
+<area shape="rect" id="node3" href="$class_c_noise_gen.html" title="CNoiseGen" alt="" coords="5,155,93,181"/>
+<area shape="rect" id="node4" href="$class_c_pulse_gen.html" title="CPulseGen" alt="" coords="117,155,205,181"/>
+<area shape="rect" id="node5" href="$class_c_sine_gen.html" title="CSineGen" alt="" coords="230,155,311,181"/>
+<area shape="rect" id="node6" href="$class_c_square_gen.html" title="CSquareGen" alt="" coords="336,155,432,181"/>
+<area shape="rect" id="node7" href="$class_c_step_gen.html" title="CStepGen" alt="" coords="456,155,539,181"/>
+<area shape="rect" id="node8" href="$class_c_triangle_gen.html" title="CTriangleGen" alt="" coords="563,155,663,181"/>
+</map>

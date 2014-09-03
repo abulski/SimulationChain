@@ -1,0 +1,9 @@
+<map id="SLogic::LoadSimChain" name="SLogic::LoadSimChain">
+<area shape="rect" id="node2" href="$class_s_object_factory.html#ae22f773bc12d54a221b554e60ff66c60" title="Allows to access the only instance of the factory. " alt="" coords="211,5,402,32"/>
+<area shape="rect" id="node3" href="$class_s_object_factory.html#acf189f9dde8b69b506876e5c036b949d" title="Creates a new type of discrite object. Returns nullptr if invalid type is given. " alt="" coords="208,56,405,83"/>
+<area shape="rect" id="node4" href="$class_i_s_i_s_o.html#a026ca604f872f5e6390972949990ab9d" title="Sets object&#39;s parent. There can be only one parent of the same object. " alt="" coords="245,107,368,133"/>
+<area shape="rect" id="node5" href="$class_i_s_i_s_o.html#ab1f064e22a7fae390b2a3c7dc099a9a8" title="Registers a name with the object. User must ensure that the name is unique. " alt="" coords="247,157,366,184"/>
+<area shape="rect" id="node6" href="$class_i_s_i_s_o.html#ae5863092dc43d56eef93ad00fb1b5aa3" title="Set object functional type. " alt="" coords="251,208,363,235"/>
+<area shape="rect" id="node7" href="$class_i_s_i_s_o.html#a291902b8379ccf4f67a7a2634d9ced1b" title="Load internal object state data from tree. Each object manages the data itself. " alt="" coords="245,259,368,285"/>
+<area shape="rect" id="node8" href="$class_c_regulator.html#aba3089c34106e09c3851ad0225d67165" title="Returns list of generators. " alt="" coords="210,309,403,336"/>
+</map>
